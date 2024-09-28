@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define COM 100
+#define COM 101
 
 int a = 0;
 int arr[COM][COM] = { 0 };
